@@ -4,7 +4,6 @@ var favoriteWords = [
     "lollygag": "spend time aimlessly",
     "wabbit": "weary, exhausted",
 ]
-
 var numberWords = [1: "one"]
 
 var definition = favoriteWords["rigmarole"]
